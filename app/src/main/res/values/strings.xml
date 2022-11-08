@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">File_Reciever</string>
+    <string name="download">파일 다운로드중...</string>
+    <string name="percent">0%</string>
+    <string name="ok">확인</string>
+    <string name="progress">%1$d%%</string>
+    <string name="close">닫기</string>
+</resources>
